@@ -1,4 +1,5 @@
 def greet(name):
+    """Print a greeting message."""
     print(f"Hello, {name}!")
 
 
